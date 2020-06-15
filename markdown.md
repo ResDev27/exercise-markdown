@@ -51,8 +51,9 @@ Voici quelques exemples de syntaxe Markdown. Quelques balises HTML équivalentes
 
 *__Cette liste n'est pas exhaustive.__*
 
-[Markdown1](:/markdown1.png)
+![Markdown1](./markdown1.png)
+![Markdown1](./markdown2.png)
 
-[source](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+[Source](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 
