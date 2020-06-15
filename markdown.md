@@ -56,4 +56,20 @@ Voici quelques exemples de syntaxe Markdown. Quelques balises HTML équivalentes
 
 [Source](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
+Voici donc un peit apperçu de ce qu'est le *__Markdown__*!  
+Je vous invite, si vous approfondir le sujet, à visiter les quelques liens référencés ci-dessous.:
+
+1. [Daring FireBall](https://daringfireball.net/projects/markdown/)
+2. [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+3. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+4. [Rédigez en Markdown](https://openclassrooms.com/fr/courses/1304236-redigez-en-markdown)
+5. [Markdown Guide](https://www.markdownguide.org/)
+6. [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
+
+__Voila! Vous avez les cartes en mains.__  
+
+__A vous de jouer :wink:!
+
+![Gif](https://media.giphy.com/media/XbxZ41fWLeRECPsGIJ/giphy.gif)
 
